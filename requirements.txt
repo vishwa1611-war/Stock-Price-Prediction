@@ -1,0 +1,13 @@
+streamlit              
+sklearn-preprocessing   
+beautifulsoup4           
+keras                     
+keras-models             
+matplotlib                
+yfinance                  
+matplotlib-inline         
+numpy                     
+pandas                    
+scikit-learn              
+tensorflow                
+tensorflow-intel          
